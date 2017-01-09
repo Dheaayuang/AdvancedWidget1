@@ -4,15 +4,15 @@ Judul : AdvancedWidget1
 
 Identitas :
 
-Nama : Dhea Ayu Anggraini
+- Nama : Dhea Ayu Anggraini
 
-Kelas : XI RPL 3
+- Kelas : XI RPL 3
 
-No. Absen : 07
+- No. Absen : 07
 
-NIS : 4696/1415.070
+- NIS : 4696/1415.070
 
-Nama Sekolah : SMK Telkom Malang
+- Nama Sekolah : SMK Telkom Malang
 
 Screenshoot :
 
