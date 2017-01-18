@@ -1,20 +1,8 @@
 # AdvancedWidget1
 
-Judul : AdvancedWidget1
+- Judul : AdvancedWidget1
 
-Identitas :
-
-- Nama : Dhea Ayu Anggraini
-
-- Kelas : XI RPL 3
-
-- No. Absen : 07
-
-- NIS : 4696/1415.070
-
-- Nama Sekolah : SMK Telkom Malang
-
-Screenshoot :
+- ScreenShoot :
 
 1. <img src="https://github.com/Dheaayuang/AdvancedWidget1/blob/master/07_Dhea%20Ayu%20Anggraini(1).png">
 
@@ -27,3 +15,15 @@ Screenshoot :
 5. <img src="https://github.com/Dheaayuang/AdvancedWidget1/blob/master/07_Dhea%20Ayu%20Anggraini(5).png">
 
 6. <img src="https://github.com/Dheaayuang/AdvancedWidget1/blob/master/07_Dhea%20Ayu%20Anggraini(6).png">
+
+- Identitas :
+
+Nama : Dhea Ayu Anggraini
+
+Kelas : XI RPL 3
+
+No Urut : 07
+
+NIS : 4696/1415.070
+
+Nama Sekolah : SMK Telkom Malang
